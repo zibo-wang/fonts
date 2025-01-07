@@ -1,3 +1,5 @@
 IntelOneMonoNerdFont.zip filter=lfs diff=lfs merge=lfs -text
 IosevkaNerdFont.zip filter=lfs diff=lfs merge=lfs -text
 SarasaMonoCLNerdFont.zip filter=lfs diff=lfs merge=lfs -text
+Iosevka.zip filter=lfs diff=lfs merge=lfs -text
+NerdFontsSymbolsOnly.zip filter=lfs diff=lfs merge=lfs -text
